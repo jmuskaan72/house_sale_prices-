@@ -86,5 +86,5 @@ MiscFeature: Miscellaneous feature not covered in other categories
 MiscVal: $Value of miscellaneous feature
 MoSold: Month Sold
 YrSold: Year Sold
-SaleType: Type of sale
+SaleType: Type of sale 
 SaleCondition: Condition of sale
